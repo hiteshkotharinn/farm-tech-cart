@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/farm-tech-cart/static/css/main.6aad2db4.chunk.css",
+    "main.js": "/farm-tech-cart/static/js/main.427ba72e.chunk.js",
+    "main.js.map": "/farm-tech-cart/static/js/main.427ba72e.chunk.js.map",
+    "runtime-main.js": "/farm-tech-cart/static/js/runtime-main.ce11a2cf.js",
+    "runtime-main.js.map": "/farm-tech-cart/static/js/runtime-main.ce11a2cf.js.map",
+    "static/css/2.2d343019.chunk.css": "/farm-tech-cart/static/css/2.2d343019.chunk.css",
+    "static/js/2.d5722d38.chunk.js": "/farm-tech-cart/static/js/2.d5722d38.chunk.js",
+    "static/js/2.d5722d38.chunk.js.map": "/farm-tech-cart/static/js/2.d5722d38.chunk.js.map",
+    "index.html": "/farm-tech-cart/index.html",
+    "precache-manifest.71dbc4d9c4a83e331ceb220c4673f259.js": "/farm-tech-cart/precache-manifest.71dbc4d9c4a83e331ceb220c4673f259.js",
+    "service-worker.js": "/farm-tech-cart/service-worker.js",
+    "static/css/2.2d343019.chunk.css.map": "/farm-tech-cart/static/css/2.2d343019.chunk.css.map",
+    "static/css/main.6aad2db4.chunk.css.map": "/farm-tech-cart/static/css/main.6aad2db4.chunk.css.map",
+    "static/js/2.d5722d38.chunk.js.LICENSE.txt": "/farm-tech-cart/static/js/2.d5722d38.chunk.js.LICENSE.txt",
+    "static/media/shopping-cart-solid.svg": "/farm-tech-cart/static/media/shopping-cart-solid.fa0d2718.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce11a2cf.js",
+    "static/css/2.2d343019.chunk.css",
+    "static/js/2.d5722d38.chunk.js",
+    "static/css/main.6aad2db4.chunk.css",
+    "static/js/main.427ba72e.chunk.js"
+  ]
+}
